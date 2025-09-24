@@ -1,0 +1,26 @@
+# Pastas de dados e imagens (não versionar)
+dados/
+imagens/
+
+# Notebooks temporários do Colab
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# Arquivos grandes comuns
+*.csv
+*.parquet
+*.feather
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.xlsx
+*.sav
+*.dta
